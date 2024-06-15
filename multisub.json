@@ -1,0 +1,119 @@
+{
+  "title": "Unstoppable Social Media Default Subs List",
+  "description": "This is a list of default subs for unstoppable.social - building common unity at the grassroots.",
+  "subplebbits": [
+    {
+      "title": "Great Acceleration",
+      "address": "greatacceleration.eth",
+      "tags": [
+        "ens",
+        "plebbit",
+        "project",
+        "support",
+        "token"
+      ],
+      "features": [
+        "sfw"
+      ]
+    },
+    {
+      "title": "plebmusic",
+      "address": "plebmusic.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ],
+      "features": [
+        "sfw"
+      ]
+    },
+    {
+      "address": "health-nutrition-science.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ],
+      "features": [
+        "sfw"
+      ]
+    },
+    {
+      "title": "Pleb Council",
+      "address": "plebcouncil.eth",
+      "tags": [
+        "plebbit",
+        "project",
+        "support"
+      ],
+      "features": []
+    },
+    {
+      "title": "Piracy",
+      "address": "plebpiracy.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ]
+    },
+    {
+      "title": "TechnoPleb",
+      "address": "technopleb.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ]
+    },
+    {
+      "title": "Cave to Cave Communications",
+      "address": "cave2cave.eth",
+      "tags": [
+        "ens",
+        "project"
+      ]
+    },
+    {
+      "title": "Psychic Garden",
+      "address": "psychicgarden.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ]
+    },
+    {
+      "title": "The DIY Economy",
+      "address": "diyeconomy.eth",
+      "tags": [
+        "ens",
+        "topic",
+        "support"
+      ]
+    },
+    {
+      "title": "Crypto Serious",
+      "address": "cryptoserious.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ]
+    },
+    {
+      "title": "CHANT DOWN BABYLON",
+      "address": "chantdownbabylon.eth",
+      "tags": [
+        "ens",
+        "random"
+      ]
+    },
+    {
+      "title": "We Read Books",
+      "address": "wereadbooks.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ]
+    }
+  ]
+}
+
+
+
